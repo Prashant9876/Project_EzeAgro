@@ -20,8 +20,8 @@ int flame;
 #define WIFI_SSID "Mi10i"
 #define WIFI_PASSWORD "123456pk#"
 
-#define API_KEY "AIzaSyAgGRwbMMcDLKqDwyHjBcPkqby55xqE7IY" // Replace with your Firebase project API Key
-#define DATABASE_URL "https://ezeagros-default-rtdb.firebaseio.com/"
+#define API_KEY "###############################" // Replace with your Firebase project API Key
+#define DATABASE_URL "https://###############.firebaseio.com/"
 
 FirebaseData fbdo;
 FirebaseAuth auth;
